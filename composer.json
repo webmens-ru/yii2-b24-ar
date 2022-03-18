@@ -1,0 +1,24 @@
+{
+    "name": "webmens-ru/yii2-b24-ar",
+    "description": "",
+    "keywords": [
+        "yii2"
+    ],
+    "type": "yii2-b24-ar",
+    "license": "MIT",    
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.14"
+    },    
+    "autoload": {
+        "psr-4": {
+            "wm\\yii\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
