@@ -1,10 +1,10 @@
 <?php
 
 
-namespace wm\yii2-b24-ar\crm;
+namespace wm\b24\crm;
 
 
-class StatusActiveQuery extends \wm\yii2-b24-ar\ActiveQuery
+class StatusActiveQuery extends \wm\b24\ActiveQuery
 {
     //    public $entityTypeId;
 

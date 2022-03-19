@@ -1,10 +1,10 @@
 <?php
 
-namespace wm\yii2-b24-ar\crm;
+namespace wm\b24\crm;
 
 //Код не универсален а направлен на смарт процессы стоит перенести в другой класс
 use yii\helpers\ArrayHelper;
-use wm\yii2-b24-ar\ActiveQuery;
+use wm\b24\ActiveQuery;
 
 class CategoryActiveQuery extends ActiveQuery {
     public $entityTypeId;

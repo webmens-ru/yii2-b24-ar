@@ -5,10 +5,10 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace wm\yii2-b24-ar;
+namespace wm\b24;
 
 use Bitrix24\B24Object;
-use wm\yii2-b24-artools\b24Tools;
+use wm\b24tools\b24Tools;
 use Yii;
 use yii\base\InvalidArgumentException;
 use yii\base\InvalidConfigException;
