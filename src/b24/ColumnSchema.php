@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace wm\b24;
+namespace wm\yii2-b24-ar;
 
 use yii\base\BaseObject;
 use yii\helpers\ArrayHelper;

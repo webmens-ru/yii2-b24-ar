@@ -1,12 +1,12 @@
 <?php
 
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 
 use yii\helpers\ArrayHelper;
 
-class CompanyActiveQuery extends \wm\b24\ActiveQuery
+class CompanyActiveQuery extends \wm\yii2-b24-ar\ActiveQuery
 {
     //    public $entityTypeId;
 

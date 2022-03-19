@@ -1,11 +1,11 @@
 <?php
 
-namespace wm\b24\user;
+namespace wm\yii2-b24-ar\user;
 
 //Код не универсален а направлен на смарт процессы стоит перенести в другой класс
 use yii\helpers\ArrayHelper;
 
-class UserActiveQuery extends \wm\b24\ActiveQuery
+class UserActiveQuery extends \wm\yii2-b24-ar\ActiveQuery
 {
 //    public $entityTypeId;
 

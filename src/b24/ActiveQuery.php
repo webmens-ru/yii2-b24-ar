@@ -1,6 +1,6 @@
 <?php
 
-namespace wm\b24;
+namespace wm\yii2-b24-ar;
 
 use yii\base\InvalidArgumentException;
 use yii\base\InvalidConfigException;

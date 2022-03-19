@@ -1,13 +1,13 @@
 <?php
 
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 
 use yii\helpers\ArrayHelper;
 
 
-class LeadActiveQuery extends \wm\b24\ActiveQuery
+class LeadActiveQuery extends \wm\yii2-b24-ar\ActiveQuery
 {
     protected $listMethodName = 'crm.lead.list';
 

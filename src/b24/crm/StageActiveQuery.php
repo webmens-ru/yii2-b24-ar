@@ -1,10 +1,10 @@
 <?php
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 //Код не универсален а направлен на смарт процессы стоит перенести в другой класс
 use yii\helpers\ArrayHelper;
-use wm\b24\ActiveQuery;
+use wm\yii2-b24-ar\ActiveQuery;
 
 class StageActiveQuery extends ActiveQuery {
 

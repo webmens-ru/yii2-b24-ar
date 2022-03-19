@@ -1,16 +1,16 @@
 <?php
 
-namespace wm\b24\user;
+namespace wm\yii2-b24-ar\user;
 
 //use yii\base\Model;
 use Bitrix24\B24Object;
-use wm\b24tools\b24Tools;
+use wm\yii2-b24-artools\b24Tools;
 use Yii;
 use yii\helpers\ArrayHelper;
-use wm\b24\TableSchema;
+use wm\yii2-b24-ar\TableSchema;
 
 
-class UserActiveRecord extends \wm\b24\ActiveRecord
+class UserActiveRecord extends \wm\yii2-b24-ar\ActiveRecord
 {
     public static function fieldsMethod()
     {

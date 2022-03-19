@@ -1,11 +1,11 @@
 <?php
 
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 use yii\helpers\ArrayHelper;
 
-class ContactActiveQuery extends \wm\b24\ActiveQuery
+class ContactActiveQuery extends \wm\yii2-b24-ar\ActiveQuery
 {
     //    public $entityTypeId;
 

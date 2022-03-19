@@ -1,13 +1,13 @@
 <?php
 
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 
 use Yii;
 
 
-class DealActiveRecord extends \wm\b24\ActiveRecord
+class DealActiveRecord extends \wm\yii2-b24-ar\ActiveRecord
 {
     public static function fieldsMethod()
     {

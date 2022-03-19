@@ -1,13 +1,13 @@
 <?php
 
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 
 use Yii;
 
 
-class InvoiceActiveRecord extends \wm\b24\ActiveRecord
+class InvoiceActiveRecord extends \wm\yii2-b24-ar\ActiveRecord
 {
     public static function entityTypeId()
     {

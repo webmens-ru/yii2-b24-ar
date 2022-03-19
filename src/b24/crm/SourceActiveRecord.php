@@ -1,16 +1,16 @@
 <?php
 
-namespace wm\b24\crm;
+namespace wm\yii2-b24-ar\crm;
 
 //use yii\base\Model;
 use Bitrix24\B24Object;
 use phpDocumentor\Reflection\DocBlock\Tags\Source;
-use wm\b24tools\b24Tools;
+use wm\yii2-b24-artools\b24Tools;
 use Yii;
 use yii\helpers\ArrayHelper;
 
 
-class SourceActiveRecord extends \wm\b24\ActiveRecord
+class SourceActiveRecord extends \wm\yii2-b24-ar\ActiveRecord
 {
     public static function entityId()
     {
